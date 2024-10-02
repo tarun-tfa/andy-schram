@@ -1,4 +1,4 @@
-=== Twenty Twenty-Four ===
+=== Andy Schram ===
 Contributors: wordpressdotorg
 Requires at least: 6.4
 Tested up to: 6.6
@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.
+Andy Schram is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Andy Schram comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.
 
 == Changelog ==
 
@@ -30,8 +30,8 @@ https://wordpress.org/documentation/article/twenty-twenty-four-changelog/#Versio
 
 == Copyright ==
 
-Twenty Twenty-Four WordPress Theme, (C) 2023 WordPress.org
-Twenty Twenty-Four is distributed under the terms of the GNU GPL.
+Andy Schram WordPress Theme, (C) 2023 WordPress.org
+Andy Schram is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
