@@ -1,0 +1,27 @@
+# WordPress core files
+wp-admin/
+wp-includes/
+
+# WordPress configuration file
+wp-config.php
+wp-config-sample.php
+
+# Uploads directory
+wp-content/uploads/
+
+# Cache directories
+wp-content/cache/
+wp-content/backups/
+
+# Local development tools
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment variable files
+.env
